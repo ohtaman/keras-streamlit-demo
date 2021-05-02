@@ -1,2 +1,13 @@
 # keras-streamlit-demo
-Demonstration repo for building Keras model with Streamlit.
+
+
+
+# Poetry
+
+
+```
+$ poetry install
+$ poetry shell
+(.ven) $ streamlit run --server.runOnSave true main.py
+```
+
