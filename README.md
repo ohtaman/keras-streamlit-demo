@@ -2,6 +2,9 @@
 
 Streamlit を使って Keras のモデルをテンポよく開発するデモです。
 
+https://user-images.githubusercontent.com/329750/116829908-a76f1b80-abe1-11eb-9178-3a880b199a7f.mov
+
+
 ## インストールと Streamlit の起動
 
 ### Graphviz のインストール
