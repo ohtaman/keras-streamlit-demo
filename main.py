@@ -25,13 +25,8 @@ class CustomModel(tf.keras.Model):
         return x
 
 
-def build_model():
-    model = CustomModel()
-    return model
-
-
 def main():
-    model = build_model()
+    model = CustomModel()
 
     input = tf.keras.Input((224, 224, 3))
     output = model.call(input)
